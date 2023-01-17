@@ -1,5 +1,9 @@
 [
   {
+    "package": "starry",
+    "oncran": true
+  },
+  {
     "package": "uxr",
     "oncran": true
   }
