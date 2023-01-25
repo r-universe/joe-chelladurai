@@ -1,5 +1,9 @@
 [
   {
+    "package": "play",
+    "oncran": true
+  },
+  {
     "package": "starry",
     "oncran": true
   },
